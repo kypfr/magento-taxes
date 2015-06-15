@@ -1,0 +1,1 @@
+This project provide import files for Magento, especially for taxes rules
